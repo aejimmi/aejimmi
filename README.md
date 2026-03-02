@@ -10,4 +10,4 @@ Copenhagen · Singapore | [Logpoint](https://logpoint.com) (acquired)
 
 **[fail2ban-rs](https://github.com/aejimmi/fail2ban-rs)** – fail2ban rewritten in Rust
 
-**Zero** – Files, reimagined. Finder & Spotlight replacement (Coming soon) 
+**[zero](https://github.com/zerofind/zero)** – Files and search, reimagined (soon) 
