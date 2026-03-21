@@ -4,7 +4,7 @@ Copenhagen · Singapore | [Logpoint](https://logpoint.com) (acquired)
 
 ---
 
-**[tell-rs](https://github.com/tell-rs)** – Analytics that tell the whole story. Events, logs, business data
+**[tell-rs](https://github.com/tell-rs)** – Analytics that tell the whole story. Events, logs, mertics and business data
 
 **[etch](https://github.com/aejimmi/etch)** – Your data, etched. Fast embedded persistence for Rust.
 
