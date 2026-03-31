@@ -18,4 +18,4 @@ Copenhagen · Singapore | [Logpoint](https://logpoint.com) (acquired)
 
 **[macwarden](https://github.com/aejimmi/macwarden)** – Block macos apps and services
 
-**[macstalker](https://github.com/aejimmi/macstalker)** – See what macos collects about you 
+**[themacfiles](https://github.com/aejimmi/themacfiles)** – What apples collects about you
