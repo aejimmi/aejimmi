@@ -1,6 +1,6 @@
 ## Hi Jimmi 👋
 
-Copenhagen · Singapore | [Logpoint](https://logpoint.com) (acquired)
+Copenhagen | Founder [Logpoint](https://logpoint.com) (acquired) now building tell.rs and more.
 
 ### Production 
 
