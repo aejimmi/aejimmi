@@ -8,6 +8,10 @@ Copenhagen · Singapore | [Logpoint](https://logpoint.com) (acquired)
 
 **[etch](https://github.com/aejimmi/etch)** – Your data, etched. Fast embedded persistence for Rust
 
+**[harbor](https://github.com/aejimmi/harbor)** – Spin up servers and ship apps
+
+**[witness](https://github.com/tell-rs/witness)** – Automatic host monitoring agent
+
 ### Security 
 
 **[fail2ban-rs](https://github.com/aejimmi/fail2ban-rs)** – fail2ban rewritten in Rust
