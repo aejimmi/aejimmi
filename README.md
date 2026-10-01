@@ -4,11 +4,11 @@ Copenhagen | Founder [Logpoint](https://logpoint.com) (acquired) now building te
 
 ### Production 
 
-**[tell-rs](https://github.com/tell-rs)** – Analytics that tell the whole story
-
 **[etch](https://github.com/aejimmi/etch)** – Your data, etched. Fast embedded persistence for Rust
 
 **[harbor](https://github.com/aejimmi/harbor)** – Spin up servers and ship apps
+
+**[tell-rs](https://github.com/tell-rs)** – Analytics that tell the whole story
 
 **[witness](https://github.com/tell-rs/witness)** – Automatic host monitoring agent
 
@@ -22,4 +22,4 @@ Copenhagen | Founder [Logpoint](https://logpoint.com) (acquired) now building te
 
 **[macwarden](https://github.com/aejimmi/macwarden)** – Block macos apps and services
 
-**[themacfiles](https://github.com/aejimmi/themacfiles)** – What apples collects about you
+**[themacfiles](https://github.com/aejimmi/themacfiles)** – What apple collects about you
